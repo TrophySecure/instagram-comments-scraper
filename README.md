@@ -1,209 +1,120 @@
-[Instagram Comments Scraper](https://apify.com/louisdeconinck/instagram-comments-scraper?fpr=data)
+[Instagram Comments Scraper](https://apify.com/apidojo/instagram-comments-scraper?fpr=data)
 
-**🚀 Instantly Scrape Thousands of Instagram Comments — No Login Required**
+**Check out our newest actor:**
 
-Want all the comments from any IG post? Without logging in, without limits, and without bloated monthly plans?
+| ![Instagram Hashtag Scraper](https://images.apifyusercontent.com/-hHr0CrCGA4vNNFCyBKwMqNiGhTO4z1OKcupE_7GH94/w:1800/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcERnSFFybUFLUDR5UTYtcTNJb1dNTW12dGtoUkh1aHo5azFOTXJCa3dCRS9yczpmaWxsOjEyODoxMjgvY2I6MS9hSFIwY0hNNkx5OWhjR2xtZVMxcGJXRm5aUzExY0d4dllXUnpMWEJ5YjJRdWN6TXVkWE10WldGemRDMHhMbUZ0WVhwdmJtRjNjeTVqYjIwdldHZHBabXRvTkRocWFUVkJOVFZDY0ZvdFlXTjBiM0l0V2xOQ2RVZGpRVTlqVkZwcVNGVldlWFl0ZUZFMk4wcEdVa2xqU3kxcGJuTjBZV2R5WVcwdGJHOW5ieTVxY0dWbi5qcGVn.webp) | [**Instagram Hashtag Scraper**](https://apify.com/apidojo/instagram-hashtag-scraper?fpr=yhdrb&fp_sid=top_ihs)   [Best posts & reels hashtag scraper! **$0.016 / hashtag** gets you **60 items FREE**, then **$0.0004 / additional item**. No authentication, no proxy needed. Perfect for content research and social media intelligence! Fast, reliable results in clean CSV format.](https://apify.com/apidojo/instagram-hashtag-scraper?fpr=yhdrb&fp_sid=top_ihs) |
+| --- | --- |
 
-**Just drop the URL.**
+*Built by us - the API Dojo team. Same quality, same support level. Scroll down to continue reading the documentation*
 
-⚡ Get all the comments — in seconds.
+![](https://images.apifyusercontent.com/mluI4FyT3SdjTh67kD4dK70WHrHOWyxVEUKLFONGdAI/w:1800/cb:1/aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpL3hvcWliYmptMm9hZnY5NzF1NG50NC9pbnN0YWdyYW0tY29tbWVudHMtc2NyYXBlci5qcGc_cmxrZXk9NXh2Y2pxcmVnODZlM25lem9mdHJ5bGQ1OCZzdD1wdWd5Z2VnayZkbD0x.webp)
 
-💰 Pay only for what you use.
+# 🏯 Instagram Comments Scraper: The radar on social media 📡
 
-Built for people who move FAST: growth hackers, marketers, developers.
+Introducing the Instagram Comments Scraper, your go-to tool for extracting comments from Instagram posts efficiently. This high-performance scraper excels at rapidly collecting comment data from any Instagram post, making it perfect for data analysts and businesses seeking comment insights. With blazing-fast performance of **100-200 comments per second** and cost-effective pricing at just **$0.50 per 1000 posts**, this tool delivers exceptional value for comprehensive comment analysis.
 
-If you’ve wasted time with fake tools or sketchy bots, this is your wake-up call.
+## ℹ️ Disclaimer
 
-## 💥 Real Results, Fast
+We are professionals specializing in data extraction. This actor is exceptionally fine-tuned for scraping [Instagram](https://instagram.com), providing you with a comprehensive suite of tools. Moreover, we provide top-tier maintenance and exceptional support. Pure data - at your fingertips. You name it, we get it.
 
-Scraped 10,184 comments in 58 seconds.
+### Important Note About Usage
 
-User sentiment? ✅
+This scraper is designed to collect comment data from Instagram posts. Please respect the following rules:
 
-Lead gen? ✅
+- Each query or post must fetch **at least 10 comments**. Fetching fewer creates unnecessary overhead and may be blocked.
+- Scraping posts with very few or no comments can trigger our **rate-limiter** and may result in your runs being stopped.
+- These limits ensure stable performance and fair use for everyone.
 
-Market insight? ✅
+## 🐉 Features and Functionality
 
-One user said:
+- No Authentication, no cookies. Just pure data. 🛡️
+- Almost free. **$0.50 per 1K results.** 💰
+- No extra costs, no proxy needed. 🐉
+- Simple Output, super fast. 💨
+- Plug and play for AI tools like Flowise, Langchain, etc. 🧠
 
-"I got 5,000 comments from a viral competitor post in less than 30 seconds. This would’ve taken me hours manually."
+## 🆓 Demo Mode & Free Users
 
-That’s time back, data in, and no risk to your Instagram account.
+The users that are on Free Plan can use the actor only on Demo Mode. **Please keep in mind that the users that are on Free Plan can retrieve a maximum of 10 items, and cannot use the actor via API.** If you want to use this actor without any limitation, you have to subscribe to a paid plan on Apify. You can check this [link to subscribe easily](https://apify.com/pricing?fpr=yhdrb).
 
-## 🔑 What Makes It Different?
+## 👹 Competitors
 
-- ⚙️ Plug & Play – Just paste a post URL. That’s it.
-- 🔐 No Login Needed – Zero risk of account bans.
-- ⚡ Crazy Fast – 10,000+ comments in under 60 seconds.
-- 🧾 Fully Detailed – Text, author, likes, timestamp, and more.
-- 💸 Ridiculously Cheap – From $0.0002 per comment. That’s 5,000 comments for $1.
+Oooh yes, we love this part! 🔥 We're not here to brag, but give our tool a shot and see the magic happen! Just keep in mind that while we tested everything fairly (same inputs and resources), the actual speeds and costs might bounce around a bit in real-world use.
 
-## 💡 What Can You Use This For?
+| Feature | 🏯 Instagram Comments Scraper | Apify Instagram Comments | Easy Instagram Comments |
+| --- | --- | --- | --- |
+| Is it Working | ✔️ | ✔️ | ✔️ |
+| Comment information range | Unlimited | Unlimited | N/A |
+| Price Per 100k Results (Post URL) | $50 | $230 | Pay for Usage |
+| Price Per 100k Results (Post ID) | $50 | $230 | Pay for Usage |
+| Comments Per Second (Post URL) | 100-200 | 48 | 99 |
+| Comments Per Second (Post ID) | 100-200 | 51 | 112 |
+| Pricing Plan | $0.50 per 1k results | $2.30 per 1k results | Pay for Usage |
+| Maximum Comments Total Limit | ✔️ | ✔️ | ❌ |
+| Scrape From Post URLs | ✔️ | ✔️ | ✔️ |
+| Scrape From Post IDs | ✔️ | ✔️ | ❌ |
+| No Proxy Required | ✔️ | ✔️ | ❌ |
 
-If you're doing *any* of these, this is your unfair advantage:
+## 🎎 Who needs this?
 
-- Sentiment Analysis – Know how people really feel.
-- Influencer Research – Find out who’s winning engagement.
-- Market Research – Let your audience write the feedback for you.
-- Trend Spotting – What’s catching fire in your niche?
-- Lead Gen – Find prospects commenting on competitor posts.
-- Content Strategy – Double down on what gets people talking.
-- Community Management – Surface questions, complaints, fans — instantly.
-- Competitor Analysis – What’s working for them? What’s not?
+The Instagram Comments Scraper is engineered to deliver outstanding efficiency.
 
-## 📦 What You Get (Output Format)
+- **Social Media Managers & Content Creators:** Track engagement patterns, identify trending topics, and understand audience sentiment across posts. This data helps in content planning, response management, and building stronger community engagement strategies. Perfect for optimizing posting schedules and content themes based on historical comment patterns.
+- **Market Research Analysts:** Gather real-time consumer insights, track brand sentiment, and conduct competitor analysis through comment data. This enables detailed market segmentation, trend forecasting, and consumer behavior analysis, providing valuable inputs for strategic business decisions.
+- **Marketing and Advertising Professionals:** Marketers and advertisers can use comments data to analyze trends, hashtags, and product reception. This helps in campaign optimization, influencer identification, and measuring brand sentiment across different demographics and regions.
+- **Data Scientists & AI Researchers:** Access structured comment data for training sentiment analysis models, developing natural language processing algorithms, and creating predictive analytics tools. Perfect for building machine learning models that can automatically categorize comments, detect trends, or identify potential viral content.
+- **Brand Protection & Reputation Managers:** Monitor brand mentions, track customer complaints, and identify potential PR issues before they escalate. Essential for maintaining brand integrity, managing crisis communications, and ensuring timely responses to customer concerns.
+- **OSINT & Security Professionals:** Analyze comment patterns for security assessments, threat detection, and digital investigation purposes. Valuable for monitoring social movements, identifying coordinated activities, and gathering intelligence from public discourse.
+- **Academic Researchers:** Study social behavior patterns, conduct linguistic analysis, and research digital communication trends. Useful for sociology, psychology, and communication studies focusing on social media impact and online interaction patterns.
+- **E-commerce & Product Managers:** Track product feedback, identify customer pain points, and gather feature requests through comment analysis. Essential for product development, customer experience improvement, and competitive analysis.
 
-Every comment comes with detailed metadata like:
-
-- `pk` - Comment ID
-- `user_id` - User ID
-- `created_at` - Comment creation timestamp
-- `media_id` - Media ID
-- `text` - Comment text
-- `comment_like_count` - Comment like count
-- `user`
-
-- `username` - Username of commenter
-- `full_name` - Full name of commenter
-- `is_private` - Whether the commenter is private
-- `profile_pic_url` - Profile picture URL of commenter
+## 🍜 Output Example
 
 ```
 {
-	"pk": "17886529642832034",
-	"user_id": "2880416097",
-	"type": 0,
-	"did_report_as_spam": false,
-	"created_at": 1608059608,
-	"created_at_utc": 1608059608,
-	"created_at_for_fb_app": 1608059608,
-	"content_type": "comment",
-	"status": "Active",
-	"bit_flags": 0,
-	"share_enabled": true,
-	"is_ranked_comment": false,
-	"media_id": "1280676884715465116",
-	"comment_index": 283,
-	"strong_id__": "17886529642832034",
-	"text": "I miss checking everyday this post's likes",
-	"is_covered": false,
-	"liked_by_media_coauthors": [],
-	"inline_composer_display_condition": "never",
-	"has_liked_comment": false,
-	"has_disliked_comment": false,
-	"comment_like_count": 3,
-	"private_reply_status": 0,
-	"preview_child_comments": [],
-	"child_comment_count": 0,
-	"other_preview_users": [],
+	"postId": "DOWP-SKcbxW",
+	"type": "comment",
+	"id": "18082843581850016",
+	"userId": "35344407915",
+	"message": "see you this weekend! ❤️‍🔥",
+	"createdAt": "2025-09-09T06:28:25.000Z",
+	"likeCount": 12,
+	"replyCount": 0,
 	"user": {
-		"pk": "2880416097",
-		"pk_id": "2880416097",
-		"id": "2880416097",
-		"username": "thomastavellaa",
-		"full_name": "Thomas",
-		"is_private": false,
-		"strong_id__": "2880416097",
-		"fbid_v2": "17841402882910052",
-		"is_verified": false,
-		"profile_pic_id": "3544948044207739701_2880416097",
-		"profile_pic_url": "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/473652778_9016816841765251_127759092116206075_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QFUQiFuBAf4tXC6Jad89Ox9uOGg0CvKT-_uqKNr0vNRcrHOGzp7NHjP98tH8oLyp0Zq7mVF6fOY7ns9BK9Gf4d0&_nc_ohc=DYCM1_GvIGMQ7kNvwGqBrCn&_nc_gid=Gz7vVhObJlVKFdRUjNaBlA&edm=AId3EpQBAAAA&ccb=7-5&oh=00_AfGexIvIrTw3b4U59bvFvazacy77ZrFJqRF4T8xrtyAIAA&oe=6811C0E8&_nc_sid=f5838a",
-		"is_mentionable": true,
-		"latest_reel_media": 1745603812
-	}
+		"id": "36344407913",
+		"username": "janedoe",
+		"fullName": "Jane Doe",
+		"isVerified": true,
+		"isPrivate": false,
+		"profilePicUrl": "https://scontent-vie1-1.cdninstagram.com/v/t51.2885-19/312703494_132238196273312_7753306379674188963_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=100&ig_cache_key=GAl6oxKg8LYaRXgAAKP8P9MSR5lrbkLAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgLkMzIn0%3D&_nc_ohc=3sESud8CEDIQ7kNvwENEul-&_nc_oc=AdnP9xVZkwOCNwuURqeQVlfhQh-ZCyycrfaTuzp6g2fFNWYR0MNBAz-oOg0sElgeIj0&_nc_ad=z-m&_nc_cid=0&_nc_zt=24&_nc_ht=scontent-vie1-1.cdninstagram.com&oh=00_AfbKeAiUzRd-K2Ofcs7ttOzARVPSEhG9KTHHaWq8KfafJQ&oe=68E01C"
+	},
+	"isRanked": true
 }
 ```
 
-You get the raw data — no filters, no BS.
+## 🍚 Input Parameters
 
-## ⌨️ Simple Inputs
+| Field | Type | Description | Default value |
+| --- | --- | --- | --- |
+| startUrls | array | [Instagram](https://instagram.com) URLs. Paste the URLs and get the results immediately. Only Post URLs are supported. | `[]` |
+| postIds | array | [Instagram](https://instagram.com) Post IDs. You can find the IDs from the posts. ID for `https://www.instagram.com/p/DC7Q4z5JPMX/` would be `DC7Q4z5JPMX`. | `[]` |
+| maxItems | number | Maximum number of items that you want to receive as output | `Infinity` |
+| customMapFunction | String | Function that takes each of the objects as argument and returns data that will be mapped by the function itself. This function is not intended for filtering, please don't use it for filtering purposes or you will get banned automatically. | `null` |
 
-```
-{
-  "urls": [
-    "https://www.instagram.com/p/CmUv48DLvxd/",
-    "https://www.instagram.com/p/BsOGulcndj-/",
-    "CmYyND_OYMl"
-  ],
-  "maxComments": 10000
-}
-```
+## 🔧 Troubleshooting
 
-You can also add cookies (optional) for even cheaper results.
+- **Getting Few Results?** Check "Maximum number of items on output" (`maxItems`) field, and "Maximum charged results" fields. These two fields enable you to handle the total number of results. Leaving both empty will result infinite results.
+- **Are Some Outputs Missing?** Ensure that you review all fields, not just the overview. You can navigate to the "Storage" tab and select either "Download the results" or "Open in a New Tab."
+- **Getting No Results?** Confirm that your parameters are not overly restrictive.
+- **Not Receiving New Items After a Large Batch?** Examine the log for messages like "Logging is too fast, some lines were skipped." If you encounter this issue, consider scraping smaller amounts of data to avoid it.
 
-## 💵 Pricing (Crystal Clear)
+## 📞 Contact and Feature Requests
 
-| Feature | Price | What $1 Gets You |
-| --- | --- | --- |
-| Per Actor Run | $0.001 | 1,000 runs |
-| Per Comment (no cookie) | $0.001 | 1,000 comments |
-| Per Comment (with cookie) | $0.0002 | 5,000 comments |
+If you need any sort of support, please send an email to [apidojo10@gmail.com](mailto:apidojo10@gmail.com). You name it, we get it.
 
-**Example:**
+## 🈴 Other Actors you might want to check
 
-200 comments, no cookie = $0.201
-
-Same, with cookie = $0.041
-
-Use the “Maximum cost per run” input to cap your cost — you stay in control.
-
-## 🧠 Why It Works
-
-Where you are: Tired of fake tools and slow scripts.
-
-Where you want to be: Instant, clean, full access to real Instagram data.
-
-The obstacle: Tools that require login, subscriptions, or break after 3 uses.
-
-This tool deletes all of that.
-
-No login. No rate limit. No fluff.
-
-You get what you want — fast, cheap, and reliable.
-
-## 🚀 How to Start (In Under 1 Minute)
-
-1. Click “Try for Free”
-2. Paste your Instagram post URLs
-3. Hit “Run” and get your data
-
-Free users get 15 comments max and must provide cookies. Upgrade to a paid plan here: [Apify Pricing](https://apify.com/pricing?fpr=7p4wu)
-
-## 🔐 Want Cheaper Runs? Use Auth Cookies
-
-Most comments are locked behind login. For the best price per comment, provide your own cookies. When you provide cookies, the requests to fetch comments from Instagram's servers will be linked to your account. Instagram might detect this automated behavior.
-
-How to do it:
-
-1. Install [Copy Cookies extension](https://chromewebstore.google.com/detail/copy-cookies/jcbpglbplpblnagieibnemmkiamekcdg)
-2. Go to Instagram and log in
-3. Click the extension icon and copy the cookies
-4. Paste them into the “cookies” field
-
-Done. Now you scrape like a pro — at 1/5 the price.
-
-## 🔗 Built to Integrate
-
-Use it with [Make.com](https://www.make.com?pc=louisdeconinck) to automate anything — daily scans, alerts, backups — no dev team needed.
-
-## 👨‍💻 Who Built This?
-
-![Louis Deconinck](https://images.apifyusercontent.com/tHf88AXWVeXiQ_eDShnBALyEK7GZ9bAcr_BJ0NliECo/w:1800/cb:1/aHR0cHM6Ly9samh2Zm5wODBzLnVmcy5zaC9mL0lQaU1VYURYTkN0VHAza3hOeDhRYkQwRkN6bnY5V2NaazhhdU5YMk9KdEVBd3hHNA.webp)
-
-I’m **Louis Deconinck**, top 1% Apify dev, Oxford grad, and builder of 60+ public tools used by 500+ data pros every month.
-
-- 🏆 Apify AI Agent Hackathon Winner
-- 🧠 300+ contributions in Apify Discord
-- 💼 Ex-data engineer for major EU banks
-
-Need help or got a crazy use case? [Message me here](https://apify.com/louisdeconinck?fpr=7p4wu)
-
-## ❤️ What Others Are Saying
-
-“You’re insanely talented. I’ve never had results this fast.” – Kamesh D.
-
-“Your scrapers got me more done in 3 hours than I’ve done in weeks.” – Leo X.
-
-👉 Click “Try for Free” now and get the data while it’s still fresh.
-
-This tool will save you hours. It might even save your launch.
+- [Twitter Scraper Lite](https://apify.com/apidojo/twitter-scraper-lite?fpr=yhdrb)
+- [Instagram Scraper](https://apify.com/apidojo/instagram-scraper?fpr=yhdrb)
+- [Tweet Scraper](https://apify.com/apidojo/tweet-scraper?fpr=yhdrb)
+- [TikTok User Scraper](https://apify.com/apidojo/tiktok-user-scraper?fpr=yhdrb)
